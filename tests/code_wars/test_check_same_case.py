@@ -12,19 +12,18 @@
 # 'B' and 'g' returns 0
 # '0' and '?' returns -1
 
-from code_challenges.code_wars.check_same_case import case_check
+from code_challenges.code_wars.check_same_case import evaluate_characters_case
 
 def test_case():
     data = (
         ('C', 'B', 1),
-        ('b', 'A', 0)
-        )
-        # ('d', 'd', 1),
-        # ('A', 's', 0),
-        # ('c', 'B', 0),
-        # ('b', 'Z', 0),
-        # ('\t', 'Z', -1),
-        # ('H', ':', -1))
+        ('b', 'A', 0),
+        ('d', 'd', 1),
+        ('A', 's', 0),
+        ('c', 'B', 0),
+        ('b', 'Z', 0),
+        ('\t', 'Z', -1),
+        ('H', ':', -1))
 
     for (a, b, eq) in data:
         assert case_check(a, b) == eq
