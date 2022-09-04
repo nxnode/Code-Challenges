@@ -12,7 +12,7 @@
 # 'B' and 'g' returns 0
 # '0' and '?' returns -1
 
-from code_challenges.code_wars.check_same_case import case_check
+from code_challenges.code_wars.check_same_case import evaluate_characters_case
 
 def test_case():
     data = (
