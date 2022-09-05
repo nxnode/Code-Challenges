@@ -26,4 +26,4 @@ def test_case():
         ('H', ':', -1))
 
     for (a, b, eq) in data:
-        assert case_check(a, b) == eq
+        assert evaluate_characters_case(a, b) == eq
