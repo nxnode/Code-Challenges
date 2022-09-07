@@ -122,11 +122,11 @@
 # 98-pineapple
 # 99-apple
 # 100-pineapple
-starting_number = 325
-def get_sum_of_digits in str(starting_number):
-
-    sum_of_digits = 0
-    for starting_number in str(n)
-        sum_of_digits += int(starting_number)
-    starting_number_minus_sum = starting_number - sum_of_digits
-    return starting_number_minus_sum
+# starting_number = 325
+# def get_sum_of_digits in str(starting_number):
+#
+#     sum_of_digits = 0
+#     for starting_number in str(n)
+#         sum_of_digits += int(starting_number)
+#     starting_number_minus_sum = starting_number - sum_of_digits
+#     return starting_number_minus_sum
