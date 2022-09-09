@@ -9,7 +9,6 @@
 # even with changing every pineapple to apple one by one in my answer key
 # it still returns same error
 
-import random
 from code_challenges.code_wars.subtract_the_sums import subtract_sum
 
 # fruit as a dictionary with fruit as key and list of numbers as values
@@ -133,11 +132,14 @@ fruit_dict = [
 
 # 155, 150, 135, 134, 133, 125 all become 99
 def test_subtract_sum():
-    for i in range(0,101):
+    for i in range(0, 101):
         greater_than_ninety_nine = 0
         # all numbers > 99 will reduct to 99
         if i > 99:
             greater_than_ninety_nine = 99
         else:
             greater_than_ninety_nine = i
-        assert subtract_sum(greater_than_ninety_nine) == fruit_dict[greater_than_ninety_nine]
+        assert (
+            subtract_sum(greater_than_ninety_nine)
+            == fruit_dict[greater_than_ninety_nine]
+        )
