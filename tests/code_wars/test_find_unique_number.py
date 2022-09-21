@@ -3,9 +3,7 @@
 from code_challenges.code_wars.find_unique_number import find_unique_number
 
 
-test_numbers = {1: [1, 1, 1, 2, 1, 1], 2: [0, 0, 0.55, 0, 0]}
-
-
 def test_find_unique_number():
+    test_numbers = {1: [1, 1, 1, 2, 1, 1], 2: [0, 0, 0.55, 0, 0]}
     assert find_unique_number(test_numbers[1]) == 2
     assert find_unique_number(test_numbers[2]) == 0.55
