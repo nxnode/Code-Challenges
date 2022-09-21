@@ -5,6 +5,11 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
+<<<<<<< HEAD
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
+=======
+    "editor.mouseWheelZoom": true,
+    "editor.tokenColorCustomizations": {}
+>>>>>>> main
 }
