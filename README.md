@@ -2,6 +2,11 @@
 
 ## Code Wars
 
+#### **Find The Odd Int** (6kyu)
+- **Module:** [code_challenges/code_wars/find_the_odd_int.py](code_challenges/code_wars/find_the_odd_int.py)
+- **Test:** [tests/code_wars/test_find_the_odd_int.py](tests/code_wars/test_find_the_odd_int.py)
+- **URL:** [Find The Odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+
 #### **Check Same Case** (8kyu)
 - **Module:** [code_challenges/code_wars/check_same_case.py](code_challenges/code_wars/check_same_case.py)
 - **Test:** [tests/code_wars/test_check_same_case.py](tests/code_wars/test_check_same_case.py)
