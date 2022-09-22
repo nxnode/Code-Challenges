@@ -9,4 +9,5 @@
     "python.linting.enabled": true
     "editor.mouseWheelZoom": true,
     "editor.tokenColorCustomizations": {}
+    "python.defaultInterpreterPath": "/home/nxn/github/Code-Challenges/venv/bin/python"
 }
