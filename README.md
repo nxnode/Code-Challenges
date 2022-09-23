@@ -2,6 +2,11 @@
 
 ## Code Wars
 
+#### **Who Likes It?** (6kyu)
+- **Module:** [code_challenges/code_wars/who_likes_it.py](code_challenges/code_wars/who_likes_it.py)
+- **Test:** [tests/code_wars/test_who_likes_it.py](tests/code_wars/test_who_likes_it.py)
+- **URL:** [Who Likes It?(https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+
 #### **Find The Odd Int** (6kyu)
 - **Module:** [code_challenges/code_wars/find_the_odd_int.py](code_challenges/code_wars/find_the_odd_int.py)
 - **Test:** [tests/code_wars/test_find_the_odd_int.py](tests/code_wars/test_find_the_odd_int.py)
