@@ -27,3 +27,8 @@
 - **Test:** [tests/code_wars/test_subtract_the_sums.py](tests/code_wars/test_subtract_the_sums.py)
 - **URL:** [Check Same Case Challenge](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)
 - **Note:** Issue with tests. Unable to submit due to faulty additional tests. See [discussion](https://www.codewars.com/kata/56c5847f27be2c3db20009c3/discuss#label-issue) for more info. 
+
+#### **Sum of Digits / Digital Root** (6kyu) 
+- **Module:** [code_challenges/code_wars/digital_root.py](code_challenges/code_wars/digital_root.py)
+- **Test:** [tests/code_wars/test_digital_root.py](tests/code_wars/test_digital_root.py)
+- **URL:** [Sum of Digits / Digital Root Challenge](https://www.codewars.com/kata/541c8630095125aba6000c00)
