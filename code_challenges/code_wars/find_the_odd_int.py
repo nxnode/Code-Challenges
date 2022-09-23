@@ -1,7 +1,7 @@
 # https://www.codewars.com/kata/54da5a58ea159efa38000836
 
 
-def odd_freq(numbers):
+def least_freq_num(numbers):
     freq_of_numbers = {}
     for number in numbers:
         freq_of_numbers[number] = freq_of_numbers.get(number, 0) + 1
