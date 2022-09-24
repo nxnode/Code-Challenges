@@ -1,4 +1,4 @@
-from code_challenges.adhoc.read_file import append_file, read_file, write_file
+from code_challenges.adhoc.file_operations import append_file, read_file, write_file
 
 
 def test_read_file():
