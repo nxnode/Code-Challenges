@@ -2,6 +2,11 @@
 
 ## Code Wars
 
+#### **Who Likes It?** (6kyu)
+- **Module:** [code_challenges/code_wars/who_likes_it.py](code_challenges/code_wars/who_likes_it.py)
+- **Test:** [tests/code_wars/test_who_likes_it.py](tests/code_wars/test_who_likes_it.py)
+- **URL:** [Who Likes It?(https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+
 #### **Bit Counting** (6kyu)
 - **Module:** [code_challenges/code_wars/bit_counting.py](code_challenges/code_wars/bit_counting.py)
 - **Test:** [tests/code_wars/test_bit_counting.py](tests/code_wars/test_bit_counting.py)
