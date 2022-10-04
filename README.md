@@ -7,10 +7,15 @@
 - **Test:** [tests/code_wars/test_who_likes_it.py](tests/code_wars/test_who_likes_it.py)
 - **URL:** [Who Likes It?(https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
+#### **Bit Counting** (6kyu)
+- **Module:** [code_challenges/code_wars/bit_counting.py](code_challenges/code_wars/bit_counting.py)
+- **Test:** [tests/code_wars/test_bit_counting.py](tests/code_wars/test_bit_counting.py)
+- **URL:** [Bit Counting Challenge](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+
 #### **Find The Odd Int** (6kyu)
 - **Module:** [code_challenges/code_wars/find_the_odd_int.py](code_challenges/code_wars/find_the_odd_int.py)
 - **Test:** [tests/code_wars/test_find_the_odd_int.py](tests/code_wars/test_find_the_odd_int.py)
-- **URL:** [Find The Odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- **URL:** [Find The Odd Int Challenge](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
 #### **Create Phone Number** (6kyu)
 - **Module:** [code_challenges/code_wars/create_phone_number.py](code_challenges/code_wars/create_phone_number.py)
