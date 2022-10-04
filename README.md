@@ -2,10 +2,25 @@
 
 ## Code Wars
 
+#### **Move Zeros to the End** (5kyu)
+- **Module:** [code_challenges/code_wars/move_zeros_to_the_end.py](code_challenges/code_wars/move_zeros_to_the_end.py)
+- **Test:** [tests/code_wars/test_move_zeros_to_the_end.py](tests/code_wars/test_move_zeros_to_the_end.py)
+- **URL:** [Move Zeros to the End Challenge](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+
+#### **Trigrams** (6kyu)
+- **Module:** [code_challenges/code_wars/trigrams.py](code_challenges/code_wars/trigrams.py)
+- **Test:** [tests/code_wars/test_trigrams.py](tests/code_wars/test_trigrams.py)
+- **URL:** [Trigrams Challenge](https://www.codewars.com/kata/55d8dc4c8e629e55dc000068)
+
 #### **Who Likes It?** (6kyu)
 - **Module:** [code_challenges/code_wars/who_likes_it.py](code_challenges/code_wars/who_likes_it.py)
 - **Test:** [tests/code_wars/test_who_likes_it.py](tests/code_wars/test_who_likes_it.py)
-- **URL:** [Who Likes It?(https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- **URL:** [Who Likes It? Challenge](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+
+#### **Even or Odd** (6kyu)
+- **Module:** [code_challenges/code_wars/even_or_odd.py](code_challenges/code_wars/even_or_odd.py)
+- **Test:** [tests/code_wars/test_even_or_odd.py](tests/code_wars/test_even_or_odd.py)
+- **URL:** [Even or Odd Challenge](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 
 #### **Bit Counting** (6kyu)
 - **Module:** [code_challenges/code_wars/bit_counting.py](code_challenges/code_wars/bit_counting.py)
@@ -42,7 +57,7 @@
 - **Test:** [tests/code_wars/test_multiples_of_3_or_5.py](tests/code_wars/test_multiples_of_3_or_5.py)
 - **URL:** [Multiples of 3 or 5 Challenge](https://www.codewars.com/kata/514b92a657cdc65150000006)
 
-#### **Subtract the Sum** (8kyu) 
+#### **Subtract the Sums** (8kyu) 
 - **Module:** [code_challenges/code_wars/subtract_the_sums.py](code_challenges/code_wars/subtract_the_sums.py)
 - **Test:** [tests/code_wars/test_subtract_the_sums.py](tests/code_wars/test_subtract_the_sums.py)
 - **URL:** [Check Same Case Challenge](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)
