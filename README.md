@@ -2,6 +2,11 @@
 
 ## Code Wars
 
+#### **Strings Mix** (4kyu)
+- **Module:** [code_challenges/code_wars/strings_mix.py](code_challenges/code_wars/strings_mix.py)
+- **Test:** [tests/code_wars/test_strings_mix.py](tests/code_wars/test_strings_mix.py)
+- **URL:** [Strings Mix Challenge](https://www.codewars.com/kata/5629db57620258aa9d000014)
+
 #### **Move Zeros to the End** (5kyu)
 - **Module:** [code_challenges/code_wars/move_zeros_to_the_end.py](code_challenges/code_wars/move_zeros_to_the_end.py)
 - **Test:** [tests/code_wars/test_move_zeros_to_the_end.py](tests/code_wars/test_move_zeros_to_the_end.py)
