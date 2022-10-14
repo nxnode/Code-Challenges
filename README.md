@@ -72,3 +72,8 @@
 - **Module:** [code_challenges/code_wars/digital_root.py](code_challenges/code_wars/digital_root.py)
 - **Test:** [tests/code_wars/test_digital_root.py](tests/code_wars/test_digital_root.py)
 - **URL:** [Sum of Digits / Digital Root Challenge](https://www.codewars.com/kata/541c8630095125aba6000c00)
+
+#### **Quarter of the Year** (8kyu)
+- **Module:** [code_challenges/code_wars/quarter_of_the_year.py](code_challenges/code_wars/quarter_of_the_year.py)
+- **Test:** [tests/code_wars/test_quarter_of_the_year.py](tests/code_wars/test_quarter_of_the_year.py)
+- **URL:** [Quarter of the Year Challenge](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
