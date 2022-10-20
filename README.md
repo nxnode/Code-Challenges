@@ -42,6 +42,11 @@
 - **Test:** [tests/code_wars/test_create_phone_number.py](tests/code_wars/test_create_phone_number.py)
 - **URL:** [Create Phone Number Challenge](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 
+#### **Highest and Lowest** (7kyu)
+- **Module:** [code_challenges/code_wars/highest_and_lowest.py](code_challenges/code_wars/highest_and_lowest.py)
+- **Test:** [tests/code_wars/test_highest_and_lowest.py](tests/code_wars/test_highest_and_lowest.py)
+- **URL:** [Highest and Lowest Challenge](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+
 #### **Check Same Case** (8kyu)
 - **Module:** [code_challenges/code_wars/check_same_case.py](code_challenges/code_wars/check_same_case.py)
 - **Test:** [tests/code_wars/test_check_same_case.py](tests/code_wars/test_check_same_case.py)
@@ -87,3 +92,13 @@
 - **Module:** [code_challenges/code_wars/find_the_parity_outlier.py](code_challenges/code_wars/find_the_parity_outlier.py)
 - **Test:** [tests/code_wars/test_find_the_parity_outlier.py](tests/code_wars/test_find_the_parity_outlier.py)
 - **URL:** [Find the Parity Outlier Challenge](https://https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+
+#### **Stop gninnipS My sdroW!** (6kyu)
+- **Module:** [code_challenges/code_wars/reverse_string.py](code_challenges/code_wars/reverse_string.py)
+- **Test:** [tests/code_wars/test_reverse_string.py](tests/code_wars/test_reverse_string.py)
+- **URL:** [Stop gninnipS My sdroW! Challenge](https://www.codewars.com/kata/5264d2b162488dc400000001/)
+
+#### **Isograms** (7kyu)
+- **Module:** [code_challenges/code_wars/isograms.py](code_challenges/code_wars/isograms.py)
+- **Test:** [tests/code_wars/test_isograms.py](tests/code_wars/test_isograms.py)
+- **URL:** [Isograms Challenge](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
