@@ -22,6 +22,11 @@
 - **Test:** [tests/code_wars/test_trigrams.py](tests/code_wars/test_trigrams.py)
 - **URL:** [Trigrams Challenge](https://www.codewars.com/kata/55d8dc4c8e629e55dc000068)
 
+#### **Persistent Bugger** (6kyu)
+- **Module:** [code_challenges/code_wars/persistent_bugger.py](code_challenges/code_wars/persistent_bugger.py)
+- **Test:** [tests/code_wars/test_persistent_bugger.py](tests/code_wars/test_persistent_bugger.py)
+- **URL:** [Persistent Bugger Challenge](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+
 #### **Who Likes It?** (6kyu)
 - **Module:** [code_challenges/code_wars/who_likes_it.py](code_challenges/code_wars/who_likes_it.py)
 - **Test:** [tests/code_wars/test_who_likes_it.py](tests/code_wars/test_who_likes_it.py)
