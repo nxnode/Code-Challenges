@@ -12,6 +12,11 @@
 - **Test:** [tests/code_wars/test_move_zeros_to_the_end.py](tests/code_wars/test_move_zeros_to_the_end.py)
 - **URL:** [Move Zeros to the End Challenge](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
+#### **Your Order Please** (6kyu)
+- **Module:** [code_challenges/code_wars/your_order_please.py](code_challenges/code_wars/your_order_please.py)
+- **Test:** [tests/code_wars/test_your_order_please.py](tests/code_wars/test_your_order_please.py)
+- **URL:** [Your Order Please Challenge](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+
 #### **Trigrams** (6kyu)
 - **Module:** [code_challenges/code_wars/trigrams.py](code_challenges/code_wars/trigrams.py)
 - **Test:** [tests/code_wars/test_trigrams.py](tests/code_wars/test_trigrams.py)
