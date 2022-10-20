@@ -82,3 +82,8 @@
 - **Module:** [code_challenges/code_wars/vowel_count.py](code_challenges/code_wars/vowel_count.py)
 - **Test:** [tests/code_wars/test_vowel_count.py](tests/code_wars/test_vowel_count.py)
 - **URL:** [Vowel Count Challenge](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+
+#### **Isograms** (7kyu)
+- **Module:** [code_challenges/code_wars/isograms.py](code_challenges/code_wars/isograms.py)
+- **Test:** [tests/code_wars/test_isograms.py](tests/code_wars/test_isograms.py)
+- **URL:** [Isograms Challenge](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
