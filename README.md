@@ -82,3 +82,8 @@
 - **Module:** [code_challenges/code_wars/vowel_count.py](code_challenges/code_wars/vowel_count.py)
 - **Test:** [tests/code_wars/test_vowel_count.py](tests/code_wars/test_vowel_count.py)
 - **URL:** [Vowel Count Challenge](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+
+#### **Find the Parity Outlier** (7kyu)
+- **Module:** [code_challenges/code_wars/find_the_parity_outlier.py](code_challenges/code_wars/find_the_parity_outlier.py)
+- **Test:** [tests/code_wars/test_find_the_parity_outlier.py](tests/code_wars/test_find_the_parity_outlier.py)
+- **URL:** [Find the Parity Outlier Challenge](https://https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
