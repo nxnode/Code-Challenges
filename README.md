@@ -42,6 +42,11 @@
 - **Test:** [tests/code_wars/test_create_phone_number.py](tests/code_wars/test_create_phone_number.py)
 - **URL:** [Create Phone Number Challenge](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 
+#### **Highest and Lowest** (7kyu)
+- **Module:** [code_challenges/code_wars/highest_and_lowest.py](code_challenges/code_wars/highest_and_lowest.py)
+- **Test:** [tests/code_wars/test_highest_and_lowest.py](tests/code_wars/test_highest_and_lowest.py)
+- **URL:** [Highest and Lowest Challenge](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+
 #### **Check Same Case** (8kyu)
 - **Module:** [code_challenges/code_wars/check_same_case.py](code_challenges/code_wars/check_same_case.py)
 - **Test:** [tests/code_wars/test_check_same_case.py](tests/code_wars/test_check_same_case.py)
