@@ -82,3 +82,8 @@
 - **Module:** [code_challenges/code_wars/quarter_of_the_year.py](code_challenges/code_wars/quarter_of_the_year.py)
 - **Test:** [tests/code_wars/test_quarter_of_the_year.py](tests/code_wars/test_quarter_of_the_year.py)
 - **URL:** [Quarter of the Year Challenge](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
+
+#### **Vowel Count** (7kyu)
+- **Module:** [code_challenges/code_wars/vowel_count.py](code_challenges/code_wars/vowel_count.py)
+- **Test:** [tests/code_wars/test_vowel_count.py](tests/code_wars/test_vowel_count.py)
+- **URL:** [Vowel Count Challenge](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
