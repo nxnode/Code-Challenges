@@ -87,3 +87,8 @@
 - **Module:** [code_challenges/code_wars/reverse_string.py](code_challenges/code_wars/reverse_string.py)
 - **Test:** [tests/code_wars/test_reverse_string.py](tests/code_wars/test_reverse_string.py)
 - **URL:** [Stop gninnipS My sdroW! Challenge](https://www.codewars.com/kata/5264d2b162488dc400000001/)
+
+#### **Isograms** (7kyu)
+- **Module:** [code_challenges/code_wars/isograms.py](code_challenges/code_wars/isograms.py)
+- **Test:** [tests/code_wars/test_isograms.py](tests/code_wars/test_isograms.py)
+- **URL:** [Isograms Challenge](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
