@@ -83,6 +83,11 @@
 - **Test:** [tests/code_wars/test_vowel_count.py](tests/code_wars/test_vowel_count.py)
 - **URL:** [Vowel Count Challenge](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 
+#### **Stop gninnipS My sdroW!** (6kyu)
+- **Module:** [code_challenges/code_wars/reverse_string.py](code_challenges/code_wars/reverse_string.py)
+- **Test:** [tests/code_wars/test_reverse_string.py](tests/code_wars/test_reverse_string.py)
+- **URL:** [Stop gninnipS My sdroW! Challenge](https://www.codewars.com/kata/5264d2b162488dc400000001/)
+
 #### **Isograms** (7kyu)
 - **Module:** [code_challenges/code_wars/isograms.py](code_challenges/code_wars/isograms.py)
 - **Test:** [tests/code_wars/test_isograms.py](tests/code_wars/test_isograms.py)
