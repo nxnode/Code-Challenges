@@ -17,6 +17,11 @@
 - **Test:** [tests/code_wars/test_move_zeros_to_the_end.py](tests/code_wars/test_move_zeros_to_the_end.py)
 - **URL:** [Move Zeros to the End Challenge](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
+#### **Counting Duplicates** (6kyu)
+- **Module:** [code_challenges/code_wars/count_duplicates.py](code_challenges/code_wars/count_duplicates.py)
+- **Test:** [tests/code_wars/test_count_duplicates.py](tests/code_wars/test_count_duplicates.py)
+- **URL:** [Counting Duplicates Challenge](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+
 #### **Your Order Please** (6kyu)
 - **Module:** [code_challenges/code_wars/your_order_please.py](code_challenges/code_wars/your_order_please.py)
 - **Test:** [tests/code_wars/test_your_order_please.py](tests/code_wars/test_your_order_please.py)
