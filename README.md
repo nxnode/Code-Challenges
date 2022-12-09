@@ -7,6 +7,11 @@
 - **Test:** [tests/code_wars/test_strings_mix.py](tests/code_wars/test_strings_mix.py)
 - **URL:** [Strings Mix Challenge](https://www.codewars.com/kata/5629db57620258aa9d000014)
 
+#### **Valid Parentheses** (5kyu)
+- **Module:** [code_challenges/code_wars/validate_parentheses.py](code_challenges/code_wars/validate_parentheses.py)
+- **Test:** [tests/code_wars/test_validate_parentheses.py](tests/code_wars/test_validate_parentheses.py)
+- **URL:** [Valid Parentheses Challenge](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+
 #### **Simple Pig Latin** (5kyu)
 - **Module:** [code_challenges/code_wars/simple_pig_latin.py](code_challenges/code_wars/simple_pig_latin.py)
 - **Test:** [tests/code_wars/test_simple_pig_latin.py](tests/code_wars/test_simple_pig_latin.py)

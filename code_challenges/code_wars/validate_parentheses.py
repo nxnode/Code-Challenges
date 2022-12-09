@@ -13,16 +13,6 @@ def validate_parentheses(characters):
             if parentheses_stack == []:
                 return False
             open_parentheses = parentheses_stack.pop()
-            if char != parentheses[open_parentheses]:
-                return False
+            # if char != parentheses[open_parentheses]:
+            #     return False
     return parentheses_stack == []
-
-    # cnt = 0
-    # for char in characters:
-    #     if char == "(":
-    #         cnt += 1
-    #     if char == ")":
-    #         cnt -= 1
-    #     if cnt < 0:
-    #         return False
-    # return cnt == 0
