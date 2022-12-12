@@ -5,12 +5,9 @@ def count_calories(path):
     elf_calories = {1: {"total": 0}}
     calories_sorted = {1: 0, 2: 0, 3: 0}
     elf_id = 1
-    elf_calories["highest"] = 0
     with open(path, "r", encoding="utf-8") as file:
-        lines = []
         total_lines = []
         for line in file.readlines():
-            lines.append(line.rstrip())
             if line.rstrip() != "":
                 elf_calories[elf_id]["total"] += int(line.rstrip())
             else:

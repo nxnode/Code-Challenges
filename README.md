@@ -127,3 +127,15 @@
 - **Module:** [code_challenges/code_wars/isograms.py](code_challenges/code_wars/isograms.py)
 - **Test:** [tests/code_wars/test_isograms.py](tests/code_wars/test_isograms.py)
 - **URL:** [Isograms Challenge](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+
+## Advent of Code
+
+#### **Day 1 - find the elf with the most calories**
+- **Module:** [code_challenges/advent_of_code/day_1_elf_with_most_calories.py](code_challenges/advent_of_code/day_1_elf_with_most_calories.py)
+- **Test:** [tests/advent_of_code/test_day_1_elf_with_most_calories.py](tests/advent_of_code/test_day_1_elf_with_most_calories.py)
+- **URL:** [Day 1 - find the elf with the most calories](https://adventofcode.com/2022/day/1)
+
+#### **Day 1 - part 2 - sum of top 3 calorie totals**
+- **Module:** [code_challenges/advent_of_code/day_1_part_2_top_3_elves.py](code_challenges/advent_of_code/day_1_part_2_top_3_elves.py)
+- **Test:** [tests/advent_of_code/test_day_1_part_2_top_3_elves.py](tests/advent_of_code/test_day_1_part_2_top_3_elves.py)
+- **URL:** [Day 1 - part 2 - sum of top 3 calorie totals](https://adventofcode.com/2022/day/1#part2)
