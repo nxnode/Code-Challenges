@@ -36,7 +36,7 @@ def highest_word(test_string):
     for word in word_list:
         word_score = 0
         for letter in word:
-            word_score = word_score + int(letter_values[letter])
+            word_score = word_score + letter_values[letter]
         if word_score > highest_score:
             highest_word = word
             highest_score = word_score
