@@ -22,7 +22,12 @@
 - **Test:** [tests/code_wars/test_move_zeros_to_the_end.py](tests/code_wars/test_move_zeros_to_the_end.py)
 - **URL:** [Move Zeros to the End Challenge](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
-#### **Counting Duplicates** (6kyu)
+#### **Highest Scoring Word** (6kyu)
+- **Module:** [code_challenges/code_wars/highest_scoring_word.py](code_challenges/code_wars/highest_scoring_word.py)
+- **Test:** [tests/code_wars/test_highest_scoring_word.py](tests/code_wars/test_highest_scoring_word.py)
+- **URL:** [Highest Scoring Word Challenge](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python)
+
+### **Counting Duplicates** (6kyu)
 - **Module:** [code_challenges/code_wars/count_duplicates.py](code_challenges/code_wars/count_duplicates.py)
 - **Test:** [tests/code_wars/test_count_duplicates.py](tests/code_wars/test_count_duplicates.py)
 - **URL:** [Counting Duplicates Challenge](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
