@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/5e28b3ff0acfbb001f348ccc/train/python
 def is_solved(matrix):
     nums = []
     for block in matrix:
