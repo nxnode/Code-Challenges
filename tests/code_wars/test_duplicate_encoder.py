@@ -1,8 +1,8 @@
 # https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/python
 
-from code_challenges.code_wars.duplicate_encoder import duplicate_encode
-
 import pytest
+
+from code_challenges.code_wars.duplicate_encoder import duplicate_encode
 
 
 @pytest.mark.parametrize(
