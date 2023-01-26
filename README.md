@@ -22,6 +22,11 @@
 - **Test:** [tests/code_wars/test_move_zeros_to_the_end.py](tests/code_wars/test_move_zeros_to_the_end.py)
 - **URL:** [Move Zeros to the End Challenge](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
+#### **Duplicate Encoder** (6kyu)
+- **Module:** [code_challenges/code_wars/duplicate_encoder.py](code_challenges/code_wars/duplicate_encoder.py)
+- **Test:** [tests/code_wars/test_duplicate_encoder.py](tests/code_wars/test_duplicate_encoder.py)
+- **URL:** [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/python)
+
 #### **Highest Scoring Word** (6kyu)
 - **Module:** [code_challenges/code_wars/highest_scoring_word.py](code_challenges/code_wars/highest_scoring_word.py)
 - **Test:** [tests/code_wars/test_highest_scoring_word.py](tests/code_wars/test_highest_scoring_word.py)
