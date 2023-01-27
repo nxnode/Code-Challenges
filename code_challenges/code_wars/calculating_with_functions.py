@@ -84,7 +84,7 @@ def times(y):
 
 
 def divided_by(y):
-    return lambda x: x / y
+    return lambda x: x // y
 
 
 if __name__ == "__main__":
