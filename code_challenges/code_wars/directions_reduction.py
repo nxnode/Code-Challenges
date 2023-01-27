@@ -1,3 +1,6 @@
+# https://www.codewars.com/kata/550f22f4d758534c1100025a/python
+
+
 def directions_reduction(directions):
     reduced_directions = []
     direction_ref = {"NORTH": "SOUTH", "SOUTH": "NORTH", "EAST": "WEST", "WEST": "EAST"}
