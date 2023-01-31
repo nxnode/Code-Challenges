@@ -2,9 +2,7 @@
 
 
 def rgb_to_hex(*args):
-    return "{}{}{}".format(
-        *(f"{'' if x > 16 else 0}{x:X}" for x in (min(max(x, 0), 255) for x in args))
-    )
+    return "{}{}{}".format(*(f"{x:02X}" for x in (min(max(x, 0), 255) for x in args)))
 
 
 if __name__ == "__main__":
