@@ -2,7 +2,7 @@
 
 
 def rgb_to_hex(*args):
-    return "{}{}{}".format(*(f"{x:02X}" for x in (min(max(x, 0), 255) for x in args)))
+    return "".join(format(min(255, max(0, x)), "02X") for x in args)
 
 
 if __name__ == "__main__":
