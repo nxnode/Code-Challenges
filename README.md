@@ -7,6 +7,11 @@
 - **Test:** [tests/code_wars/test_strings_mix.py](tests/code_wars/test_strings_mix.py)
 - **URL:** [Strings Mix Challenge](https://www.codewars.com/kata/5629db57620258aa9d000014)
 
+#### **Directions Reduction** (5kyu)
+- **Module:** [code_challenges/code_wars/directions_reduction.py](code_challenges/code_wars/directions_reduction.py)
+- **Test:** [tests/code_wars/test_directions_reduction.py](tests/code_wars/test_directions_reduction.py)
+- **URL:** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/python)
+
 #### **Sliding Puzzle Verification** (5kyu)
 - **Module:** [code_challenges/code_wars/sliding_puzzle_verification.py](code_challenges/code_wars/sliding_puzzle_verification.py)
 - **Test:** [tests/code_wars/test_sliding_puzzle_verification.py](tests/code_wars/test_sliding_puzzle_verification.py)
