@@ -13,6 +13,11 @@
 - **Test:** [tests/code_wars/test_rgb_to_hex_conversion.py](tests/code_wars/test_rgb_to_hex_conversion.py)
 - **URL:** [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/train/python)
 
+#### **Directions Reduction** (5kyu)
+- **Module:** [code_challenges/code_wars/directions_reduction.py](code_challenges/code_wars/directions_reduction.py)
+- **Test:** [tests/code_wars/test_directions_reduction.py](tests/code_wars/test_directions_reduction.py)
+- **URL:** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/python)
+
 #### **Sliding Puzzle Verification** (5kyu)
 - **Module:** [code_challenges/code_wars/sliding_puzzle_verification.py](code_challenges/code_wars/sliding_puzzle_verification.py)
 - **Test:** [tests/code_wars/test_sliding_puzzle_verification.py](tests/code_wars/test_sliding_puzzle_verification.py)
