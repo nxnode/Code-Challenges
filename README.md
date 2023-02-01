@@ -7,6 +7,12 @@
 - **Test:** [tests/code_wars/test_strings_mix.py](tests/code_wars/test_strings_mix.py)
 - **URL:** [Strings Mix Challenge](https://www.codewars.com/kata/5629db57620258aa9d000014)
 
+#### **RGB To Hex Conversion** (5kyu)
+- **Ultra Ridiculous (compressed) Solution**
+- **Module:** [code_challenges/code_wars/rgb_to_hex_conversion.py](code_challenges/code_wars/rgb_to_hex_conversion.py)
+- **Test:** [tests/code_wars/test_rgb_to_hex_conversion.py](tests/code_wars/test_rgb_to_hex_conversion.py)
+- **URL:** [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/train/python)
+
 #### **Sliding Puzzle Verification** (5kyu)
 - **Module:** [code_challenges/code_wars/sliding_puzzle_verification.py](code_challenges/code_wars/sliding_puzzle_verification.py)
 - **Test:** [tests/code_wars/test_sliding_puzzle_verification.py](tests/code_wars/test_sliding_puzzle_verification.py)
