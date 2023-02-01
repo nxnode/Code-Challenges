@@ -4,8 +4,7 @@
 def zero(math_func=None):
     if not math_func:
         return 0
-    else:
-        return math_func(0)
+    return math_func(0)
 
 
 def one(math_func=None):
@@ -72,19 +71,31 @@ def nine(math_func=None):
 
 
 def plus(y):
-    return lambda x: x + y
+    def _plus(x):
+        return x + y
+
+    return _plus
 
 
 def minus(y):
-    return lambda x: x - y
+    def _minus(x):
+        return x - y
+
+    return _minus
 
 
 def times(y):
-    return lambda x: x * y
+    def _times(x):
+        return x * y
+
+    return _times
 
 
 def divided_by(y):
-    return lambda x: x // y
+    def _divided_by(x):
+        return x // y
+
+    return _divided_by
 
 
 if __name__ == "__main__":
