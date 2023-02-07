@@ -2,24 +2,31 @@
 
 
 def convert_and_sort_weights(wts):
-    weights = wts.split(" ")
-    weights = sorted(weights)
-    weight_dict = {}
-    conv_weights = []
-    sorted_weights = []
-    for weight in weights:
-        added_numbers = 0
-        for number in weight.strip():
-            added_numbers += int(number)
-        conv_weights.append(added_numbers)
-        if added_numbers not in weight_dict:
-            weight_dict[added_numbers] = []
-        weight_dict[added_numbers].append(weight)
+    return " ".join(
+        sorted(sorted(wts.split(" ")), key=lambda n: sum(int(c) for c in n))
+    )
+    # weight_dict = {}
+    # conv_weights = []
+    # sorted_weights = {
+    #     weights[0]: [],
+    # }
+    # for weight in weights:
+    #     added_numbers = 0
+    #     for number in weight.strip():
+    #         added_numbers += int(number)
+    #     conv_weights.append(added_numbers)
+    #     if added_numbers not in weight_dict:
+    #         weight_dict[added_numbers] = []
+    #     weight_dict[added_numbers].append(weight)
 
-    conv_weights = sorted(conv_weights)
-    for x in sorted(conv_weights):
-        sorted_weights.append(weight_dict[x])
-    return " ".join(sorted_weights)
+    # conv_weights = sorted(conv_weights)
+    # for x in sorted(conv_weights):
+    #     sorted_weights.append(weight_dict[x].sort())
+    # return " ".join(sorted_weights)
+
+
+def compare(n):
+    return sum(int(c) for c in n)
 
 
 if __name__ == "__main__":
