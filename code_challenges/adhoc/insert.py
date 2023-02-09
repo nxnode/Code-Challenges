@@ -1,9 +1,15 @@
-def insert(num, nums):
-    number_amount = len(nums) - 1
-    for i, char in enumerate(nums):
-        if num < nums[i]:
-            nums[i:i] = [num]
-            break
-        if i == number_amount:
-            nums.append(num)
-            break
+def insert_target(target, num_array, low=0, high=None):
+    low = max(low, 0)
+    if high is None:
+        high = len(num_array)
+    while low < high:
+        middle = (low + high) // 2
+        if num_array[middle] < target:
+            low = middle + 1
+        else:
+            high = middle
+    return num_array.insert(low, target)
+
+
+if __name__ == "__main__":
+    insert_target(3, [1, 2, 4, 5, 6])
