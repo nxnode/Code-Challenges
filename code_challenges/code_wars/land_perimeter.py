@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5839c48f0cf94640a20001d3/python
+# https://www.codewars.com/kata/5839c48f0cf94640a20001d3
 
 
 def perimeter(area):

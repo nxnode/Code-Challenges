@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5839c48f0cf94640a20001d3/train/python
+# https://www.codewars.com/kata/5839c48f0cf94640a20001d3
 import pytest
 
 from code_challenges.code_wars.land_perimeter import perimeter
