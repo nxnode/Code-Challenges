@@ -7,21 +7,26 @@
 - **Test:** [tests/code_wars/test_strings_mix.py](tests/code_wars/test_strings_mix.py)
 - **URL:** [Strings Mix Challenge](https://www.codewars.com/kata/5629db57620258aa9d000014)
 
+#### **Land Perimeter** (5kyu)
+- **Module:** [code_challenges/code_wars/land_perimeter.py](code_challenges/code_wars/land_perimeter.py)
+- **Test:** [tests/code_wars/test_land_perimeter.py](tests/code_wars/test_land_perimeter.py)
+- **URL:** [Land Perimeter](https://www.codewars.com/kata/5839c48f0cf94640a20001d3)
+
 #### **RGB To Hex Conversion** (5kyu)
 - **Ultra Ridiculous (compressed) Solution**
 - **Module:** [code_challenges/code_wars/rgb_to_hex_conversion.py](code_challenges/code_wars/rgb_to_hex_conversion.py)
 - **Test:** [tests/code_wars/test_rgb_to_hex_conversion.py](tests/code_wars/test_rgb_to_hex_conversion.py)
-- **URL:** [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/train/python)
+- **URL:** [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 
 #### **Directions Reduction** (5kyu)
 - **Module:** [code_challenges/code_wars/directions_reduction.py](code_challenges/code_wars/directions_reduction.py)
 - **Test:** [tests/code_wars/test_directions_reduction.py](tests/code_wars/test_directions_reduction.py)
-- **URL:** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/python)
+- **URL:** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
 #### **Sliding Puzzle Verification** (5kyu)
 - **Module:** [code_challenges/code_wars/sliding_puzzle_verification.py](code_challenges/code_wars/sliding_puzzle_verification.py)
 - **Test:** [tests/code_wars/test_sliding_puzzle_verification.py](tests/code_wars/test_sliding_puzzle_verification.py)
-- **URL:** [Sliding Puzzle Verification](https://www.codewars.com/kata/5e28b3ff0acfbb001f348ccc/train/python)
+- **URL:** [Sliding Puzzle Verification](https://www.codewars.com/kata/5e28b3ff0acfbb001f348ccc)
 
 #### **Valid Parentheses** (5kyu)
 - **Module:** [code_challenges/code_wars/validate_parentheses.py](code_challenges/code_wars/validate_parentheses.py)
@@ -41,14 +46,14 @@
 #### **Duplicate Encoder** (6kyu)
 - **Module:** [code_challenges/code_wars/duplicate_encoder.py](code_challenges/code_wars/duplicate_encoder.py)
 - **Test:** [tests/code_wars/test_duplicate_encoder.py](tests/code_wars/test_duplicate_encoder.py)
-- **URL:** [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/python)
+- **URL:** [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 
 #### **Highest Scoring Word** (6kyu)
 - **Module:** [code_challenges/code_wars/highest_scoring_word.py](code_challenges/code_wars/highest_scoring_word.py)
 - **Test:** [tests/code_wars/test_highest_scoring_word.py](tests/code_wars/test_highest_scoring_word.py)
-- **URL:** [Highest Scoring Word Challenge](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python)
+- **URL:** [Highest Scoring Word Challenge](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 
-### **Counting Duplicates** (6kyu)
+#### **Counting Duplicates** (6kyu)
 - **Module:** [code_challenges/code_wars/count_duplicates.py](code_challenges/code_wars/count_duplicates.py)
 - **Test:** [tests/code_wars/test_count_duplicates.py](tests/code_wars/test_count_duplicates.py)
 - **URL:** [Counting Duplicates Challenge](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
@@ -147,7 +152,7 @@
 #### **Stop gninnipS My sdroW!** (6kyu)
 - **Module:** [code_challenges/code_wars/reverse_string.py](code_challenges/code_wars/reverse_string.py)
 - **Test:** [tests/code_wars/test_reverse_string.py](tests/code_wars/test_reverse_string.py)
-- **URL:** [Stop gninnipS My sdroW! Challenge](https://www.codewars.com/kata/5264d2b162488dc400000001/)
+- **URL:** [Stop gninnipS My sdroW! Challenge](https://www.codewars.com/kata/5264d2b162488dc400000001)
 
 #### **Isograms** (7kyu)
 - **Module:** [code_challenges/code_wars/isograms.py](code_challenges/code_wars/isograms.py)
